@@ -1,0 +1,1 @@
+window.HILEX_LANG={"nav.learn": "Phunzirani", "nav.business": "Mabizinesi", "nav.pi": "Pi Ecosystem", "nav.regulation": "Malamulo", "nav.africa": "Africa", "nav.news": "Nkhani", "hero.cta1": "Yambani Kuphunzira", "hero.cta2": "Kwa Mabizinesi", "learn.title": "Phunzirani", "business.title": "Mabizinesi"};
